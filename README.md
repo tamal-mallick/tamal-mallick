@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Tamal. I an exerienced professional in data science and analytics.
 - 🤖 I’m love implementing Machine Learning algorithms to solve various real-world problems to businesses.
 - 🤏 I have added some of my works in the repository. I will add more eventually. Please stay tune...
-- 
