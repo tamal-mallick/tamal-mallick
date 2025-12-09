@@ -1,3 +1,5 @@
-- 👋 Hello, I’m Tamal. I am an experienced professional in data science and analytics.
-- 🤖 I love implementing Machine Learning algorithms to solve various real-world business problems.
-- 🤏 I have added some of my work to the repository. I will add more eventually. Please stay tuned...
+Hi there! Thanks for visiting my GitHub profile! 
+
+- 👋 My name is Tamal. I am an experienced data science practitioner. I am currently working as a Principal Data Science at Capital One and located in New York.
+- 🤖 I love to solve various complicated real-world business problems using Machine Learning and Deep Learning.
+- 🤏 Please check out my repositories for the Machine Learning projects I worked on. 
